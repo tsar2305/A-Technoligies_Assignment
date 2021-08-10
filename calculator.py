@@ -1,5 +1,4 @@
 #calculator
-x=True
 #arithmatic operation
 def add(a,b):
     c=a+b
